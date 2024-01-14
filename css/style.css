@@ -1145,7 +1145,7 @@ ul.link_menu li a {
 }
 
 ul.link_menu li a:hover {
-     color: #f4a111;
+     color: #43aeb0;
 }
 
 ul.insta {
@@ -1188,7 +1188,7 @@ ul.insta li {
 }
 
 .sub_btn:hover {
-     background-color: #f4a111;
+     background-color: #43aeb0;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -1222,7 +1222,7 @@ ul.insta li {
 }
 
 .copyright a:hover {
-     color: #f4a111;
+     color: #43aeb0;
 }
 
 
